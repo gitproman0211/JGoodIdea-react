@@ -1,0 +1,258 @@
+{
+  "main": {
+    "name":"James Gao",
+    "description":"I am a software engineer who is experienced in web/app/blockchain development. This project is a resume webpage that can be used as the project landing page or resume page. Built with react",
+    "image":"profilepic.png",
+    "bio":"Creative and results-oriented Full Stack Software Engineer with a focus on the design and implementation of backend side. Skilled in agile processes, backend and frontend development, and creating financial dApp on blockchain. Lover of everything related to generate innovation and new knowledge. Problem solver who faces them with a smile and solves them as quickly as possible. I am interested in winter sports such as snowboarding. I worked with Software Development Life Cycle(SDLC) and agile methodologies And I am familiar with blockchain concepts and know how to implement Expertise in Angular, React, Javascript, Node JS and UI with Responsive Designs / Solidity, Contract, Truffle & Hardhat and Web3",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "gloproman0211@gmail.com",
+    "telegram": "jgoodidea",
+    "github":"https://github.com/gitproman0211",
+    "project":"#",
+    "website": "https://jgoodidea.netlify.app",
+    "resumedownload":"https://docs.google.com/document/d/1NiED6v1HmS70jZ030VQxSh2gQhC4DNz0/edit?usp=sharing&ouid=109147175607629233169&rtpof=true&sd=true",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/jGoodIdea",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jgoodidea/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/gitproman0211",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Xiangtan University",
+        "degree":"Bachelor's degree in computer science",
+        "graduated":"June 2015",
+        "description":"Be honored with bachelor's degree in Computer Science under the robust educational background. I studied about Web development, Software Engineering, App Development and Project management"
+      }
+    ],
+    "work":[
+      {
+        "company":"Crosswise fi",
+        "title":"DevOps Manager & Full Stack Developer ",
+        "years":"Mar 2021 - Apr 2022",
+        "description":"I was owed a comfortable and easy-to-manage environment and blockchain applications. For this, I developed a script that deploys automatically the application and integrates CircleCI into a GitHub repository. I published a pre-sale web application to help the team raise over $1.5 million. Technologies: Git, DigitalOcean, Nginx, pm2, npmjs, React, TypeScript, Web3, Solidity, ICO, NodeJS, Express, MongoDB"
+      },
+      {
+        "company":"SideSwap",
+        "title":"Full Stack Developer",
+        "years":"Jan 2020 - Aug 2020",
+        "description":"I needed to develop a crypto exchange platform and app. I published successfully by using react and flutter. Technologies: React, JavaScript, Dart, Flutter"
+      },
+      {
+        "company":"PhoenixDeFi",
+        "title":"Full Stack / Smart contract developer",
+        "years":"Mar 2019 - Jan 2020",
+        "description":"Developed and deployed IOC/farm/pool contract. Developed DEX platform - DeFi. Implemented platform with blockchain network. Technologies: React, Web3, JavaScript, Blockchain, Solidity, Smart contract, Truffle, Dex"
+      },
+      {
+        "company":"DAO system",
+        "title":"Smart contract developer",
+        "years":"Nov 2018 - Mar 2019",
+        "description":"Built logic of lending system. Implement smart contract by using solidity, truffle. Technologies: Solidity, Truffle, Smart Contract, Strategy, Bonding & Lending"
+      },
+      {
+        "company":"Aerofiler",
+        "title":"Front-end Developer",
+        "years":"Jun 2018 - Nov 2018",
+        "description":"I was responsible for providing a company landing page which can be templates. I developed code that was well-structured and well designed to easily update the future and delivered. Technologies: HTML, CSS, JavaScript, PHP, MySQL, Email template, SocketIO"
+      },
+      {
+        "company":"GearFocus",
+        "title":"Full Stack Developer",
+        "years":"May 2015 - Apr 2018",
+        "description":"Owed to test and develop email system, payment module, and search module. Here I developed search function module, email handling module, and payment process module. I grew my skills in developing B2C/C2C marketplace and Angular, PHP, HTML, MySQL, AWS. Technologies: Angular, NodeJS, PHP, AWS, HTML, Ruby on rails, SQLite, E2E"
+      }
+    ],
+    "skills":[
+      {
+        "id": 1,
+        "name": "HTML5",
+        "image": "images/skills/html-5.svg"
+      },
+      {
+        "id": 2,
+        "name": "CSS3",
+        "image": "images/skills/css3.svg"
+      },
+      {
+        "id": 3,
+        "name": "JavaScript",
+        "image": "images/skills/javascript.svg"
+      },
+      {
+        "id": 4,
+        "name": "TypeScript",
+        "image": "images/skills/typescript.svg"
+      },
+      {
+        "id": 5,
+        "name": "Angular",
+        "image": "images/skills/angular.svg"
+      },
+      {
+        "id": 6,
+        "name": "React",
+        "image": "images/skills/react.svg"
+      },
+      {
+        "id": 7,
+        "name": "Vue",
+        "image": "images/skills/vue.svg"
+      },
+      {
+        "id": 8,
+        "name": "NodeJS",
+        "image": "images/skills/node-js.svg"
+      },
+      {
+        "id": 9,
+        "name": "Ethereum",
+        "image": "images/skills/ethereum.svg"
+      },
+      {
+        "id": 10,
+        "name": "Solidity",
+        "image": "images/skills/solidity.svg"
+      },
+      {
+        "id": 11,
+        "name": "Git",
+        "image": "images/skills/git.svg"
+      },
+      {
+        "id": 12,
+        "name": "Github",
+        "image": "images/skills/github.svg"
+      },
+      {
+        "id": 13,
+        "name": "Ruby",
+        "image": "images/skills/ruby.svg"
+      },
+      {
+        "id": 14,
+        "name": "Flutter",
+        "image": "images/skills/flutter.svg"
+      },
+      {
+        "id": 15,
+        "name": "MongoDB",
+        "image": "images/skills/mongodb.png"
+      },
+      {
+        "id": 16,
+        "name": "MySQL",
+        "image": "images/skills/mysql.svg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Smart Contract",
+        "category":"Blockchain Development",
+        "image":"blockchain-smart-contract.png",
+        "url":"#",
+        "skills": "Solidity/Rust/Remix"
+      },
+      {
+        "title":"SideSwap",
+        "category":"App Development",
+        "image":"app-sideswap.png",
+        "url":"#",
+        "skills": "Dart/Flutter/Android"
+      },
+      {
+        "title":"Nft staking",
+        "category":"Blockchain Development",
+        "image":"blockchain-nft.png",
+        "url":"https://app.xconsoles.tv/",
+        "skills": "React/Solidity/NFT"
+      },
+      {
+        "title":"Spot market",
+        "category":"Blockchain Development",
+        "image":"blockchain-spotmarket.png",
+        "url":"https://www.spot.market/",
+        "skills": "NFT/Market/React"
+      },
+      {
+        "title":"Epic game UI",
+        "category":"Blockchain Development",
+        "image":"game-epic-nft.png",
+        "url":"https://epic-game-ui.vercel.app/",
+        "skills": "NFT/Game/NextJS/BSC(test)"
+      },
+      {
+        "title":"Card matching game",
+        "category":"Web Development",
+        "image":"game-match-card.png",
+        "url":"https://card-game-gamma.vercel.app/",
+        "skills": "Vue/JavaScript/Game"
+      },
+      {
+        "title":"React JS",
+        "category":"Web Development",
+        "image":"web-react.jpg",
+        "url":"#",
+        "skills": "React/JavaScript/SCSS"
+      },
+      {
+        "title":"NodeJS",
+        "category":"Web Development",
+        "image":"nodejs.jpg",
+        "url":"#",
+        "skills": "NodeJS/Backend/TypeScript"
+      },
+      {
+        "title":"Angular",
+        "category":"Web Development",
+        "image":"web-angular.png",
+        "url":"#",
+        "skills": "Angular/TypeScript"
+      },
+      {
+        "title":"Pure HTML",
+        "category":"Web Development",
+        "image":"web-html.png",
+        "url":"#",
+        "skills": "HTML/JavaScript/CSS/Frontend"
+      },
+      {
+        "title":"Gearfocus",
+        "category":"Web Development",
+        "image":"web-marketplace.png",
+        "url":"https://www.gearfocus.com/",
+        "skills": "Angular/MySQL/PHP/AWS"
+      },
+      {
+        "title":"Quiz app",
+        "category":"Web Development",
+        "image":"web-quiz-app.png",
+        "url":"https://quiz-app-amber-gamma.vercel.app/",
+        "skills": "Vue/Frontend"
+      },
+      {
+        "title":"Server Manage",
+        "category":"Management",
+        "image":"manage-pm2.png",
+        "url":"#",
+        "skills": "DigitalOcean/Ubuntu/pm2"
+      }
+    ]
+  }
+}
