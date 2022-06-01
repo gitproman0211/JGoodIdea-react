@@ -114,7 +114,7 @@ class Contact extends Component {
               </div>
 
               <div className="widget">
-                <img src="images/contact.png" alt="contact image" />
+                <img src="images/contact.png" alt="contact" />
               </div>
             </aside>
           </Slide>

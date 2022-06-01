@@ -42,9 +42,9 @@ class Resume extends Component {
     });
 
     const skills = this.props.data.skills.map((skill) => {
-      const backgroundColor = this.getRandomColor();
-      const className = "bar-expand " + skill.name.toLowerCase();
-      const width = skill.level;
+      // const backgroundColor = this.getRandomColor();
+      // const className = "bar-expand " + skill.name.toLowerCase();
+      // const width = skill.level;
 
       return (
         <div class="skill-card" key={skill.id}>
